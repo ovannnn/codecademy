@@ -45,8 +45,3 @@ print(customer_one_total)
 
 
 
-
-
-
-
-
